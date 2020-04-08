@@ -11,6 +11,10 @@
 		{
 			"Name": "GearVR",
 			"Enabled": false
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
